@@ -3,7 +3,7 @@
 
 # ======= RUN ======= #
 run: 
-  name: SAC_robot_weight_5kg_force 
+  name: SAC_robot
 
 # ======= MODEL ======= #
 model:
